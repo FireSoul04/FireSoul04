@@ -1,16 +1,20 @@
-## Hi there 👋
+## Welcome to my Github account
 
-<!--
-**FireSoul04/FireSoul04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-time italian student of Computer science and engeneering at University of Bologna.
 
-Here are some ideas to get you started:
+I like videogames, in my account there are some games made by myself, mainly using C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like cybersecurity too and I'd like to study for a cybersecurity master degree in order to expand my knowledge of computer security, networks and cryptography.
+
+I studied computer programming since highschool, now the languages I know are:
+* C
+* C++
+* C#
+* Java
+* JavaScript
+* PHP
+* Bash scripting
+
+Meanwhile, I taught myself C++, SDL2 and Cmake for game development and i consider C++ my main language for personal projects.
+
+I read Robert C. Martin Clean Code and Clean Architecture. From them I learned better how a project structure can change the productivity of a project and how to build a good project.
