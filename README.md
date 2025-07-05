@@ -4,8 +4,6 @@ I'm a full-time italian student of Computer science and engeneering at Universit
 
 I like videogames, in my account there are some games made by myself, mainly using C++.
 
-I like cybersecurity too and I'd like to study for a cybersecurity master degree in order to expand my knowledge of computer security, networks and cryptography.
-
 I studied computer programming since highschool, now the languages I know are:
 * C
 * C++
